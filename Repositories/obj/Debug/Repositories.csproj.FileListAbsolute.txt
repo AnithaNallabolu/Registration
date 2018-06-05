@@ -1,0 +1,7 @@
+C:\Users\anith\onedrive\documents\visual studio 2015\Projects\Registration\Repositories\bin\Debug\Repositories.dll
+C:\Users\anith\onedrive\documents\visual studio 2015\Projects\Registration\Repositories\bin\Debug\Repositories.pdb
+C:\Users\anith\onedrive\documents\visual studio 2015\Projects\Registration\Repositories\bin\Debug\Models.dll
+C:\Users\anith\onedrive\documents\visual studio 2015\Projects\Registration\Repositories\bin\Debug\Models.pdb
+C:\Users\anith\onedrive\documents\visual studio 2015\Projects\Registration\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+C:\Users\anith\onedrive\documents\visual studio 2015\Projects\Registration\Repositories\obj\Debug\Repositories.dll
+C:\Users\anith\onedrive\documents\visual studio 2015\Projects\Registration\Repositories\obj\Debug\Repositories.pdb
