@@ -13,7 +13,7 @@ namespace Services
         public void Add(Company company)
         {
             var repo = new CompanyRepository();
-            repo.Add(company);
+            repo.Add(company) ;
         }
 
         public List<Company> GetAll()
