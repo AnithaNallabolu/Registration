@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using Newtonsoft.Json;
 
-namespace Registration.Models
+namespace Services.Models
 {
     // Models used as parameters to AccountController actions.
 

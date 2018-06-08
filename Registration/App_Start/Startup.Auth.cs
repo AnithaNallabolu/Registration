@@ -8,10 +8,10 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Microsoft.Owin.Security.OAuth;
 using Owin;
-using Registration.Providers;
-using Registration.Models;
+using Services.Providers;
+using Services.Models;
 
-namespace Registration
+namespace Services
 {
     public partial class Startup
     {

@@ -7,15 +7,19 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace Registration.Controllers
+namespace Services.Controllers
 {
     public class CompanyController : ApiController
     {
+        private Icompanyservice _service;
+        public CompanyController( Icompanyservice companyservice )
+        {
+            _service = companyservice;
+        }
         // GET: api/Company
         public IEnumerable<Company> Get()
         {
-            var service = new CompanyService();
-            return service.GetAll();
+           return _service.GetAll();
         }
 
         // GET: api/Company/5
@@ -27,8 +31,7 @@ namespace Registration.Controllers
         // POST: api/Company
         public void Post(Company company)
         {
-            var service = new CompanyService();
-            service.Add(company);
+            _service.Add(company);
         }
 
         // PUT: api/Company/5

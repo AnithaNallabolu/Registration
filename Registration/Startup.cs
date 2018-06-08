@@ -4,9 +4,9 @@ using System.Linq;
 using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartup(typeof(Registration.Startup))]
+[assembly: OwinStartup(typeof(Services.Startup))]
 
-namespace Registration
+namespace Services
 {
     public partial class Startup
     {

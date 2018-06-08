@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Services
 {
-    public class CompanyService
+    public class Companyservice : Icompanyservice
     {
         public void Add(Company company)
         {
