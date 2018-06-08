@@ -9,6 +9,7 @@ using System.Web.Http;
 
 namespace Services.Controllers
 {
+    [RoutePrefix("api")]
     public class CompanyController : ApiController
     {
         private Icompanyservice _service;
@@ -16,7 +17,8 @@ namespace Services.Controllers
         {
             _service = companyservice;
         }
-        // GET: api/Company
+        [Route("companies/mine")]
+        [HttpGet]
         public IEnumerable<Company> Get()
         {
            return _service.GetAll();
