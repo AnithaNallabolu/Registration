@@ -1,4 +1,4 @@
-namespace Registration.Areas.HelpPage.ModelDescriptions
+namespace Services.Areas.HelpPage.ModelDescriptions
 {
     public class EnumValueDescription
     {

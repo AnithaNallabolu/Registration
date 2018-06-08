@@ -7,3 +7,28 @@ C:\Users\anith\onedrive\documents\visual studio 2015\Projects\Registration\Servi
 C:\Users\anith\onedrive\documents\visual studio 2015\Projects\Registration\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
 C:\Users\anith\onedrive\documents\visual studio 2015\Projects\Registration\Services\obj\Debug\Services.dll
 C:\Users\anith\onedrive\documents\visual studio 2015\Projects\Registration\Services\obj\Debug\Services.pdb
+C:\src\Registration\Services\bin\Debug\Services.dll
+C:\src\Registration\Services\bin\Debug\Services.pdb
+C:\src\Registration\Services\bin\Debug\CommonServiceLocator.dll
+C:\src\Registration\Services\bin\Debug\Models.dll
+C:\src\Registration\Services\bin\Debug\Repositories.dll
+C:\src\Registration\Services\bin\Debug\Unity.Abstractions.dll
+C:\src\Registration\Services\bin\Debug\Unity.Configuration.dll
+C:\src\Registration\Services\bin\Debug\Unity.Container.dll
+C:\src\Registration\Services\bin\Debug\Unity.Interception.Configuration.dll
+C:\src\Registration\Services\bin\Debug\Unity.Interception.dll
+C:\src\Registration\Services\bin\Debug\Unity.RegistrationByConvention.dll
+C:\src\Registration\Services\bin\Debug\Unity.ServiceLocation.dll
+C:\src\Registration\Services\bin\Debug\Models.pdb
+C:\src\Registration\Services\bin\Debug\Repositories.pdb
+C:\src\Registration\Services\bin\Debug\CommonServiceLocator.pdb
+C:\src\Registration\Services\bin\Debug\Unity.Abstractions.pdb
+C:\src\Registration\Services\bin\Debug\Unity.Configuration.pdb
+C:\src\Registration\Services\bin\Debug\Unity.Container.pdb
+C:\src\Registration\Services\bin\Debug\Unity.Interception.pdb
+C:\src\Registration\Services\bin\Debug\Unity.Interception.Configuration.pdb
+C:\src\Registration\Services\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\src\Registration\Services\bin\Debug\Unity.ServiceLocation.pdb
+C:\src\Registration\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\src\Registration\Services\obj\Debug\Services.dll
+C:\src\Registration\Services\obj\Debug\Services.pdb

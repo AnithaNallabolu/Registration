@@ -1,0 +1,16 @@
+SELECT TOP (1000) [CompanyId]
+      ,[Name]
+  FROM [Registration].[dbo].[Company]
+
+  create table Employee ( EmpId int not null primary key identity(1000,1)  , Ename nvarchar(30) , CompanyId int,
+  foreign key (CompanyId) references Company(CompanyId) );
+
+  select * from Company;
+
+  insert into Company (Name) values('Dell');
+
+  select * from Employee;
+
+  insert into Employee values ('MANU',4);
+
+ -- drop table Employee;

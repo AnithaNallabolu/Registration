@@ -1,6 +1,6 @@
 using System;
 
-namespace Registration.Areas.HelpPage.ModelDescriptions
+namespace Services.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Describes a type model.
